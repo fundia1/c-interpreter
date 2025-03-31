@@ -68,7 +68,7 @@ void get_token(){
     else if (r =='=') token = EQL;
 
     else if(r!=0) token = ERR;
-    printf("token = %c\n",r);
+    printf("token = %c, %d\n",r,token);
     pointer ++;
 }
 
