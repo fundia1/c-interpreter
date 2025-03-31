@@ -1,0 +1,5 @@
+>>>print 2 + 3
+token = print
+token = 2
+token = +
+token = 3
